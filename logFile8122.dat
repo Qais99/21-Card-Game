@@ -1,0 +1,71 @@
+1- CLUB ACE
+2- DIAMONDE 9
+3- HEART 3
+4- DIAMONDE 4
+5- DIAMONDE JACK
+6- DIAMONDE 10
+7- CLUB 3
+8- DIAMONDE KING
+9- HEART QUEEN
+10- SPADE 7
+11- SPADE 5
+12- CLUB 7
+13- HEART 7
+14- CLUB 6
+15- SPADE 3
+16- HEART JACK
+17- HEART 9
+18- SPADE 8
+19- DIAMONDE 8
+20- SPADE KING
+21- SPADE 10
+
+"choose one card from   cards and click enter ...."
+	Group 1             		Group2               		Group3
+
+	SPADE 10                    SPADE KING                   DIAMONDE 8
+	SPADE 8                    HEART 9                   HEART JACK
+	SPADE 3                    CLUB 6                   HEART 7
+	CLUB 7                    SPADE 5                   SPADE 7
+	HEART QUEEN                    DIAMONDE KING                   CLUB 3
+	DIAMONDE 10                    DIAMONDE JACK                   DIAMONDE 4
+	HEART 3                    DIAMONDE 9                   CLUB ACE
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+2
+	Group 1             		Group2               		Group3
+
+	CLUB ACE                    DIAMONDE 4                   CLUB 3
+	SPADE 7                    HEART 7                   HEART JACK
+	DIAMONDE 8                    DIAMONDE 9                   DIAMONDE JACK
+	DIAMONDE KING                    SPADE 5                   CLUB 6
+	HEART 9                    SPADE KING                   HEART 3
+	DIAMONDE 10                    HEART QUEEN                   CLUB 7
+	SPADE 3                    SPADE 8                   SPADE 10
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+1
+	Group 1             		Group2               		Group3
+
+	SPADE 10                    CLUB 7                   HEART 3
+	CLUB 6                    DIAMONDE JACK                   HEART JACK
+	CLUB 3                    SPADE 3                   DIAMONDE 10
+	HEART 9                    DIAMONDE KING                   DIAMONDE 8
+	SPADE 7                    CLUB ACE                   SPADE 8
+	HEART QUEEN                    SPADE KING                   SPADE 5
+	DIAMONDE 9                    HEART 7                   DIAMONDE 4
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+1
+....
+your card is HEART 9
+----------------------------------------------------------------------------------------------------------------------

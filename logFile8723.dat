@@ -1,0 +1,71 @@
+1- HEART 7
+2- HEART QUEEN
+3- HEART 3
+4- CLUB 6
+5- CLUB QUEEN
+6- HEART 4
+7- SPADE JACK
+8- DIAMONDE 4
+9- HEART 6
+10- DIAMONDE 6
+11- HEART ACE
+12- SPADE KING
+13- HEART 9
+14- SPADE 4
+15- DIAMONDE 10
+16- SPADE 5
+17- DIAMONDE JACK
+18- DIAMONDE 8
+19- CLUB 7
+20- CLUB 4
+21- SPADE 6
+
+"choose one card from   cards and click enter ...."
+	Group 1             		Group2               		Group3
+
+	SPADE 6                    CLUB 4                   CLUB 7
+	DIAMONDE 8                    DIAMONDE JACK                   SPADE 5
+	DIAMONDE 10                    SPADE 4                   HEART 9
+	SPADE KING                    HEART ACE                   DIAMONDE 6
+	HEART 6                    DIAMONDE 4                   SPADE JACK
+	HEART 4                    CLUB QUEEN                   CLUB 6
+	HEART 3                    HEART QUEEN                   HEART 7
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+2
+	Group 1             		Group2               		Group3
+
+	HEART 7                    CLUB 6                   SPADE JACK
+	DIAMONDE 6                    HEART 9                   SPADE 5
+	CLUB 7                    HEART QUEEN                   CLUB QUEEN
+	DIAMONDE 4                    HEART ACE                   SPADE 4
+	DIAMONDE JACK                    CLUB 4                   HEART 3
+	HEART 4                    HEART 6                   SPADE KING
+	DIAMONDE 10                    DIAMONDE 8                   SPADE 6
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+3
+	Group 1             		Group2               		Group3
+
+	DIAMONDE 10                    HEART 4                   DIAMONDE JACK
+	DIAMONDE 4                    CLUB 7                   DIAMONDE 6
+	HEART 7                    SPADE 6                   SPADE KING
+	HEART 3                    SPADE 4                   CLUB QUEEN
+	SPADE 5                    SPADE JACK                   DIAMONDE 8
+	HEART 6                    CLUB 4                   HEART ACE
+	HEART QUEEN                    HEART 9                   CLUB 6
+
+
+which group contain the card? (1 or 2 or 3)
+
+
+1
+....
+your card is HEART 3
+----------------------------------------------------------------------------------------------------------------------
